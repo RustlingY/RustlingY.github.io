@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "pigeon",
+			"path": "."
+		},
+		{
+			"name": "img",
+			"path": "../../rustlingy.github.io/rustlingy.github.io/img"
+		}
+	],
+	"settings": {}
+}
